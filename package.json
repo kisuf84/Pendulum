@@ -1,0 +1,21 @@
+{
+  "name": "pendulum",
+  "version": "1.0.0",
+  "description": "A Personal Myth Engine",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "Issouf Konate",
+  "license": "ISC",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.71.2",
+    "@supabase/ssr": "^0.8.0",
+    "@supabase/supabase-js": "^2.89.0",
+    "next": "^16.1.1",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}
